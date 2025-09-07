@@ -1,0 +1,9 @@
+# requirements for jsp-analyzer
+networkx>=2.8
+beautifulsoup4>=4.9.3
+numpy>=1.21
+matplotlib>=3.4
+pydot>=1.4
+
+# Java parser for scriptlet AST analysis
+javalang>=0.13.0
